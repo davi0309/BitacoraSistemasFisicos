@@ -7,6 +7,12 @@ Consulté diferentes eventos y exposiciones relacionadas con el océano, y la qu
 Uno de los pilares principales de esta exposición es demostrar cómo los cetáceos (ballenas, delfines y otros mamíferos marinos) perciben su entorno y cómo el ruido generado por las actividades humanas actúa como un contaminante que altera su comportamiento. La exposición presenta estudios que respaldan la idea de que el ruido producido por embarcaciones, sonares y otras fuentes humanas afecta la forma en que estos animales se orientan, se comunican y perciben su entorno.
 
 
+Imagenes que use:
+[Elementalist Lux Login Screen - League of Legends - League of Legends (youtube).mp3](https://github.com/user-attachments/files/30364014/Elementalist.Lux.Login.Screen.-.League.of.Legends.-.League.of.Legends.youtube.mp3)
+<img width="1100" height="568" alt="oceano2" src="https://github.com/user-attachments/assets/a60a7c8d-2946-4808-98f3-7c68af591960" />
+<img width="1280" height="819" alt="oceano4" src="https://github.com/user-attachments/assets/fb9878b6-efb8-47d5-a19d-940c8e64dcf0" />
+<img width="1000" height="667" alt="oceano3" src="https://github.com/user-attachments/assets/09ffbec6-b517-453e-bed9-4a201c9d82f6" />
+<img width="1170" height="780" alt="oceano5" src="https://github.com/user-attachments/assets/ce5260f5-e996-4a70-a250-dd35a3886760" />
 
 # Interacciones planteadas
 
