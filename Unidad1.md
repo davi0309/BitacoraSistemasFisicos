@@ -12,23 +12,22 @@ Uno de los pilares principales de esta exposición es demostrar cómo los cetác
 
 ## Posibilidad
 
-Al comienzo de la experiencia, las partículas se mueven mediante una **turbulencia** generada con **ruido Perlin**, creando un comportamiento orgánico e impredecible.
+Las particulas al comienzo se mueven por una "turbulencia" o ruido perlin.
 
 ## Tendencia
 
-Ocurre cuando las partículas son atraídas hacia puntos de referencia al cargar una imagen. Este comportamiento funciona a partir del brillo de los píxeles: las zonas con mayor luminosidad atraen una mayor cantidad de partículas, permitiendo reconstruir la imagen.
-
+Ocurre cuando una particula es atraida por un punto de referencia cuando se carga una imagen, que funciona atraves de los brillos de los pixeles (donde hay más luz y por ende las particulas tienden a ir a esa posición).
 ## Normalidad
 
-Este estado ocurre cuando no se genera ruido externo. La mayoría de las partículas permanecen en su posición asignada, permitiendo que la imagen se reconstruya con un alto nivel de fidelidad.
+Esta pasa cuando no se genera ruido ya que la mayoria de particulas se quedan a si sitio asignado y la imagen se recontruye con mucha fidelidad.
 
 ## Excepción
 
-La excepción puede observarse al inicio de la experiencia y también durante la carga de una imagen, cuando una partícula rompe su patrón habitual de movimiento. Este comportamiento se produce mediante un **vuelo de Lévy**, representado visualmente por una onda de color dorado.
+esta se puede ver al comienzo y cuando se carga una imagen,de la interaccion cuando uan particula rompe su patron de movimiento, esto ocurre por el vuelo de levy, este se representa tambien con una onda dorada.
 
 ## Influencia
 
-La influencia ocurre cuando el usuario introduce un sonido o genera ruido durante la experiencia. Esta acción altera el comportamiento de todo el sistema de partículas, simulando el efecto que tiene la contaminación acústica sobre los ecosistemas marinos y la forma en que los cetáceos perciben su entorno.
+Es cuando el usuario hace ruido o carga un sonido en la experiencia y este altera todo el sistema de particulas.
 
 # Evidencias de iteraciones
 
@@ -699,6 +698,26 @@ Ademas de cuando ponia algun sonido precargado o activaba el microfono para grit
 <img width="1917" height="916" alt="imagen" src="https://github.com/user-attachments/assets/7ea6d790-8ed6-400a-b6e6-2b5bdc9fde6b" />
 
 Y asi pude llegar a mi resultado final
+
+## Entrega y proceso
+
+| Criterio | Cumplo | No cumplo | Evidencia |
+|-----------|:------:|:---------:|------------|
+| Encargo completo: interpreto los cinco momentos dentro de un mismo sistema visual. | ✓ | ☐ | |
+| Simulación con intención: utilizo al menos tres conceptos de la unidad para comunicar las ideas del encargo. | ✓ | ☐ | |
+| Interacción significativa: la interacción modifica el comportamiento o las probabilidades del sistema, que también funciona sin intervención. | ✓ | ☐ | |
+| Prototipo funcional: la experiencia puede ejecutarse y recorrerse completa sin errores que impidan comprenderla. | ✓ | ☐ | |
+| Proceso documentado: la bitácora evidencia avances, decisiones, dificultades, soluciones, uso de IA y enlace al prototipo. | ✓ | ☐ | |
+
+Si cumple el segundo criterio ya que cuenta con caminata aleatoria, pero correlacionada segun donde este la probabilidad, el reuido perlin con el noise que se genera con el microfono, distribucion de probabilidad con el mapeo de las imagenes por los pixeles que hay zonas con mas probabilidad que otras.
+
+Tambien cumple el tercer criterio ya que la interaccion mdifica el sistema de particulas, cambiando la dispersion gaussiana y la fuerza de atraccion de las particulas.
+
+El cuarto criterio se cumple ya que la interaccion funciona aunque no haya un usuario en la actividad y funciona sin errores que dañen el trabajo.
+
+La bitacora implementa los cambios que se hicieron y las deciciones respecto a la IA
+
+
 
 
 
