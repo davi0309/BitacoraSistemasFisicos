@@ -699,6 +699,8 @@ Ademas de cuando ponia algun sonido precargado o activaba el microfono para grit
 
 Y asi pude llegar a mi resultado final
 
+[p5.js Editor (versión 2.3.1)](https://editor.p5js.org/?version=2.3.1)
+
 ## Entrega y proceso
 
 | Criterio | Cumplo | No cumplo | Evidencia |
