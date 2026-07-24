@@ -6,6 +6,7 @@ Consulté diferentes eventos y exposiciones relacionadas con el océano, y la qu
 
 Uno de los pilares principales de esta exposición es demostrar cómo los cetáceos (ballenas, delfines y otros mamíferos marinos) perciben su entorno y cómo el ruido generado por las actividades humanas actúa como un contaminante que altera su comportamiento. La exposición presenta estudios que respaldan la idea de que el ruido producido por embarcaciones, sonares y otras fuentes humanas afecta la forma en que estos animales se orientan, se comunican y perciben su entorno.
 
+[Mi sketch de p5.js](https://editor.p5js.org/davi0309/sketches/sj1JMrIoi)
 
 Imagenes que use:
 [Elementalist Lux Login Screen - League of Legends - League of Legends (youtube).mp3](https://github.com/user-attachments/files/30364014/Elementalist.Lux.Login.Screen.-.League.of.Legends.-.League.of.Legends.youtube.mp3)
@@ -705,7 +706,6 @@ Ademas de cuando ponia algun sonido precargado o activaba el microfono para grit
 
 Y asi pude llegar a mi resultado final
 
-[p5.js Editor (versión 2.3.1)](https://editor.p5js.org/?version=2.3.1)
 
 ## Entrega y proceso
 
