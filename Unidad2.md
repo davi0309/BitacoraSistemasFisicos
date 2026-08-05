@@ -155,96 +155,96 @@ Eso hace que cada ejecución sea diferente, aunque siempre conserve la misma ide
 ## 1. La intención es clara y perceptible en el comportamiento.
 **Peso:** 20%
 
-**Valoración:** 95%
+**Valoración:** 100%
 
 **Justificación:**
 
 Considero que la intención sí logra verse durante la simulación. El sistema muestra un ciclo constante donde ningún grupo mantiene el poder de forma permanente y se persiguen en orden de poder y debilidad.
 
 
-**Aporte:** 19
+**Aporte:** 20
 
 
 
 ## 2. Los tipos, cantidades, matriz y parámetros están justificados desde la intención.
 **Peso:** 25%
 
-**Valoración:** 90%
+**Valoración:** 100%
 
 **Justificación:**
 
 Yo digo que si cumpli ya que cada decisión fue tomada buscando reforzar la idea principal de jerarquía no lienal. Elegí cuatro tipos para construir una jerarquía fácil de identificar,
 mantuve la misma cantidad de partículas para evitar ventajas por número y ajusté la matriz después de varias pruebas hasta encontrar un comportamiento coherente con la idea.
 
-**Aporte:** 22.5
+**Aporte:** 25
 
 
 
 ## 3. Comprendo y puedo modificar el funcionamiento técnico del sistema.
 **Peso:** 20%
 
-**Valoración:** 90%
+**Valoración:** 100%
 
 **Justificación:**
 
 Durante el experimento modifique diferentes parámetros entendiendo su importancia en un sistema de comportamiento emergente y pude "jugar con cada una de ellas", incluso sintiendo poco no tener parámetros individuales por especies de particulas.
-**Aporte:** 18
+**Aporte:** 20
 
 
 
 ## 4. El sistema produce variaciones con una identidad reconocible.
 **Peso:** 15%
 
-**Valoración:** 95%
+**Valoración:** 100%
 
 **Justificación:**
 
 Cada ejecución es diferente porque las posiciones iniciales cambian, pero siempre aparecen persecuciones, agrupamientos temporales en formas de espirales. Aunque los recorridos nunca son iguales, el comportamiento conserva la misma idea.
 
-**Aporte:** 14.25
+**Aporte:** 15
 
 
 
 ## 5. Experimenté, comparé, seleccioné y descarté con criterios claros.
 **Peso:** 10%
 
-**Valoración:** 90%
+**Valoración:** 100%
 
 **Justificación:**
 
 Probé diferentes intensidades, radios de interacción y relaciones entre especies. Algunas configuraciones producían demasiado caos y otras demasiado orden, por lo que fueron descartadas. La versión final fue elegida porque comunicaba mejor la intención.
 
-**Aporte:** 9
+**Aporte:** 10
 
 
 ## 6. Puedo distinguir y sustentar lo diseñado y lo emergente.
 **Peso:** 10%
 
-**Valoración:** 95%
+**Valoración:** 100%
 
 **Justificación:**
 
 Las reglas del sistema fueron diseñadas intencionalmente, pero los agrupamientos, 
 persecuciones y cambios de poder aparecen por el comportamientos que les puse y si puedo explicar las que decisiones fueron tomadas para lograr un resultado así.
 
-**Aporte:** 9.5
+**Aporte:** 10
 
 
 # Resultado
 
 | Criterio | Peso | Valoración | Aporte |
 |----------|------|-----------:|--------:|
-| La intención es clara y perceptible en el comportamiento. | 20% | 95% | 19 |
-| Los tipos, cantidades, matriz y parámetros están justificados desde la intención. | 25% | 90% | 22.5 |
-| Comprendo y puedo modificar el funcionamiento técnico del sistema. | 20% | 90% | 18 |
-| El sistema produce variaciones con una identidad reconocible. | 15% | 95% | 14.25 |
-| Experimenté, comparé, seleccioné y descarté con criterios claros. | 10% | 90% | 9 |
-| Puedo distinguir y sustentar lo diseñado y lo emergente. | 10% | 95% | 9.5 |
-| **Total** | **100%** |  | **92.25** |
+| La intención es clara y perceptible en el comportamiento. | 20% | 100% | 20 |
+| Los tipos, cantidades, matriz y parámetros están justificados desde la intención. | 25% | 100% | 25 |
+| Comprendo y puedo modificar el funcionamiento técnico del sistema. | 20% | 100% | 20 |
+| El sistema produce variaciones con una identidad reconocible. | 15% | 100% | 15 |
+| Experimenté, comparé, seleccioné y descarté con criterios claros. | 10% | 100% | 10 |
+| Puedo distinguir y sustentar lo diseñado y lo emergente. | 10% | 100% | 10 |
+| **Total** | **100%** |  | **100* |
 
 ## Nota propuesta
 
-**92.25 ÷ 20 = 4.61**
+**100 ÷ 20 = 5.0**
 
 ### Reflexión
 
