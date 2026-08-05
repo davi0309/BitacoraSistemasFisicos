@@ -1,6 +1,7 @@
 # Unidad2 - Actividad 05
 ## Reto de diseño: Una contradicción en movimiento
 [Particle Life - Version final](https://editor.p5js.org/davi0309/sketches/WWmWfm9Dw)
+[Particle Life - Visualización completa](https://editor.p5js.org/davi0309/full/WWmWfm9Dw)
 
 # La idea inicial
 
