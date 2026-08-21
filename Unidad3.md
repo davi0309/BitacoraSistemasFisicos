@@ -186,10 +186,3 @@ Se logró integrar:
 - Repulsión puntual con clic derecho.
 - Modo de presentación sin interfaz.
 
-## 10. Reflexión final
-
-Esta actividad me permitió entender que una simulación de partículas no depende solamente de “hacer que se vea bonita”. Para controlar el resultado fue necesario relacionar cada efecto visual con una fuerza, un parámetro y una predicción.
-
-La parte más importante fue pasar de partículas aleatorias a partículas con estructura. La fuerza objetivo permitió mantener una forma reconocible, mientras el vórtice, la atracción, la repulsión y el viento aportaron movimiento.
-
-También comprendí que el color, la cámara, el tamaño y la fricción son parte del instrumento: no son solo decoración, sino controles que cambian la forma en que se interpreta la simulación. 
