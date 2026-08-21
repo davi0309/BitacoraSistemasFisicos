@@ -186,3 +186,16 @@ Se logró integrar:
 - Repulsión puntual con clic derecho.
 - Modo de presentación sin interfaz.
 
+## Rúbrica de autoevaluación
+
+# Rúbrica de autoevaluación
+
+| Criterio | Peso | Evidencia / valoración |
+|---|---:|---|
+| Trazabilidad y comprensión del sistema | 25 | Estado en `positionBuffer`/`velocityBuffer`, fuerzas en bloque `force`, integración velocidad→posición, render con `SpriteNodeMaterial`/`InstancedMesh`, controles vía uniforms. Ajusté propuestas de la IA: límite esférico, mezcla normal, fuerzas de forma objetivo. |
+| Verificación del algoritmo de fuerzas | 25 | Probé inercia, viento, atracción, repulsión y vórtice con predicciones correctas. Invertí el signo de la fuerza radial para comparar atracción/repulsión. `softening` evita explosiones; fricción alta detiene el sistema en reposo. |
+| Diseño de fuerzas e intención | 20 | Escenas generadas por fuerzas físicas: `A` estrella, `W` galaxia, `S` anillos, `D` disco de acreción, `F` cometa, `H` túnel. Formas sostenidas con fuerza objetivo en GPU + atracción, vórtice, viento y fricción. |
+| Instrumento, score e interpretación | 15 | Instrumento para interpretar música en vivo: `A/W/S/D/F/H` escenas, `G` pulso, `Z` tamaño, `X` color, `1–4` cámaras, `P` presentación. Todo decidido manualmente, sin automatización por audio. |
+| Experimentación y criterio frente a la IA | 10 | Comparé varias estéticas (nube, rayos, anillos, galaxia, túnel); descarté lo poco legible. Corregí dos fallos de la IA (límite cuadrado y `AdditiveBlending` saturado). |
+| Entrega técnica y documentación | 5 | Compila con `npm run build`. Proceso documentado en bitácora. [Demo](https://davi0309.github.io/unidad3-sim-v2/) · [Repo](https://github.com/davi0309/unidad3-sim-v2). |
+| **Total estimado** | **100** | **Desempeño alto: 4.5 / 5.0** |
