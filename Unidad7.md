@@ -12,6 +12,8 @@ Queria que cada letra tuviera un hechizo representativo de la pelicula para que 
 
 <img width="1917" height="905" alt="imagen" src="https://github.com/user-attachments/assets/46f19484-a654-44c7-913a-c61662432ea4" />
 
+<img width="1917" height="885" alt="imagen" src="https://github.com/user-attachments/assets/525543ef-b9a2-43b5-be31-d1c09d6a50b1" />
+
 
 Si mi encargo permite hacer interaccion de las letras de la marca y permite interactuar y jugar con ellas : 0.25.
 
