@@ -1,5 +1,8 @@
 ## Sistema tipográfico jugable
 
+[Simulación Unidad 7](https://davi0309.github.io/Simulacion07_Unidad/)
+
+
 Para este ejercicio escogi la marca de Harry Potter, su escencia y magia detras de solo una palabra, ya que es una saga reconocida por las personas que se han visto las peliculas y leido los libros como las personas que no.
 
 Queria vazar mi proyecto en la magia como atributo, peor la magia como marca personal, ya que cuando piensas en magia de harry potter piensas en una muy especifica o almenos eso fue loq ue consulte tanto en medios y foros.
